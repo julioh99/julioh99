@@ -1,10 +1,16 @@
-### Hi there 👋
+## Hi I'm Julio César Herrera 👋
+[![Linkedin Badge](https://img.shields.io/badge/-julio-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-césar-h-588a9a11b/)](https://www.linkedin.com/in/julio-césar-h-588a9a11b/)
+[![Website Badge](https://img.shields.io/badge/-Julio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://skylinedev.app)](https://skylinedev.app)
+[![Twitter Badge](https://img.shields.io/twitter/follow/JCHerrera20?style=social)](https://twitter.com/JCHerrera20)
+[![Instagram Badge](https://img.shields.io/badge/-@julio-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/julio.herrera19/)](https://instagram.com/julio.herrera19)
+[![Gmail Badge](https://img.shields.io/badge/-Julio-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jcf.julioflores@gmail.com)](mailto:jcf.julioflores@gmail.com)
 
+Welcome to my profile! I'm a Systems Engineer, Server Manager, Database Manager and Backend developer in [Sioma](https://sioma.store).
 <!--
 **julioh99/julioh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJCHerrera20
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
